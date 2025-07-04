@@ -26,22 +26,16 @@ cd reddit-sentiment-analyzer
 pip install -r requirements.txt
 ```
 3, Set Up Reddit API
-Go to (https://www.reddit.com/prefs/apps)
+- Go to (https://www.reddit.com/prefs/apps)
+- Click “Create App”
+- Choose Script
 
-Click “Create App”
+-Fill details:
+  Name: Reddit Sentiment App
+  Redirect URI: http://localhost
+  
+-Copy your:
+  client_id, client_secret and user_agent (e.g., sentiment-analyzer by u/yourusername)
 
-Choose Script
-
-Fill details:
-
-Name: Reddit Sentiment App
-
-Redirect URI: http://localhost
-
-Copy your:
-
-client_id
-
-client_secret
-
-user_agent (e.g., sentiment-analyzer by u/yourusername)
+4. Configure Reddit Auth
+Update reddit_config.py with the help of data from previous step.
