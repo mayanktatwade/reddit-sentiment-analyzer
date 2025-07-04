@@ -25,7 +25,7 @@ cd reddit-sentiment-analyzer
 ```bash
 pip install -r requirements.txt
 ```
-3, Set Up Reddit API
+3. Set Up Reddit API
 - Go to (https://www.reddit.com/prefs/apps)
 - Click “Create App”
 - Choose Script
