@@ -87,8 +87,8 @@ pip install -r requirements.txt
 ## 🧑‍💻 Author
 
 **Mayank Tatwade**
-📬 Email: your_email@example.com
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
+📬 Email: mayanktatwadeiitb@gmail.com
+🔗 GitHub: [@mayanktatwade](https://github.com/mayanktatwade)
 
 ## ⭐️ Star This Project
 
